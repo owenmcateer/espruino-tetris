@@ -4,4 +4,4 @@ The input and output settings can be changed to work with any similar devices.
 
 **In action**
 https://www.youtube.com/watch?v=q_Ut3KzdzRU
-[![Tetris on Espruino](https://i.imgur.com/xoKn2avh.gif)](http://www.youtube.com/watch?v=q_Ut3KzdzRU "Tetris on Espruino")
+[![Tetris on Espruino](https://i.imgur.com/xoKn2av.gif)](http://www.youtube.com/watch?v=q_Ut3KzdzRU "Tetris on Espruino")
